@@ -1,0 +1,7 @@
+pylint
+black
+pytest
+ipython
+gradio
+transformers
+tensorflow
